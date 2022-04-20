@@ -14,7 +14,7 @@
 
 * **Nome**: Victor Hugo
 * **Idade**: 22
-* **Cidade**: Poços de Caldas - MG, Brazil
+* **Cidade**: Poços de Caldas - MG, Brasil
 * **Stack**: JS - React
 * **Universidade**: PUC Minas.
 
