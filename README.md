@@ -1,6 +1,6 @@
 
 
- # Estudante de Computação com o sonho de trabalhar com frond-end
+<h2>Estudante de Computação com o sonho de trabalhar com frond-end</h2>
  
  ## Informações Pessoais 
 
