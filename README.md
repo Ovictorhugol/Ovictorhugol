@@ -10,12 +10,12 @@
 
   ![Snake animation](https://github.com/Ovictorhugol/Ovictorhugol/blob/output/github-contribution-grid-snake.svg)
 
- ## Detailed information
+ ## Informações Pessoais 
 
-* **Name**: Victor Hugo
-* **Age**: 22
-* **Living in**: Poços de Caldas - MG, Brazil
+* **Nome**: Victor Hugo
+* **Idade**: 22
+* **Cidade**: Poços de Caldas - MG, Brazil
 * **Stack**: JS - React
-* **University**: PUC Minas.
+* **Universidade**: PUC Minas.
 
   
