@@ -6,7 +6,7 @@
 * **Name**: Victor Hugo
 * **Age**: 22
 * **City**: Poços de Caldas - MG, Brasil
-* **Stack**: JS - React e Angular
+* **Stack**: JS - React and Angular
 * **University**: PUC Minas.
 
 ![Snake animation](https://github.com/Ovictorhugol/Ovictorhugol/blob/output/github-contribution-grid-snake.svg)
