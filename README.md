@@ -4,7 +4,7 @@
  ## Personal Information 
 
 * **Name**: Victor Hugo
-* **Age**: 22
+* **Age**: 23
 * **City**: Poços de Caldas - MG, Brasil
 * **Stack**: JS - React
 * **University**: PUC Minas.
